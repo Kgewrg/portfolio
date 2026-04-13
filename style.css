@@ -252,6 +252,10 @@ header .bio {
 .langText{
   color: var(--text-light);
 }
+.langText img{
+  height: 14px;
+  width: auto;
+}
 
 .check {
   appearance: none;
